@@ -1,2 +1,2 @@
-a. AMQP adalah protokol komunikasi open standard yang dirancang untuk message-oriented middleware.
-b. Format ini digunakan untuk menghubungkan aplikasi ke RabbitMQ menggunakan protokol AMQP. guest pertama adalah username RabbitMQ, guest kedua adalah password user tersebut, dan localhost artinya RabbitMQ berjalan di komputer sendiri.
+1. AMQP adalah protokol komunikasi open standard yang dirancang untuk message-oriented middleware.
+2. Format ini digunakan untuk menghubungkan aplikasi ke RabbitMQ menggunakan protokol AMQP. guest pertama adalah username RabbitMQ, guest kedua adalah password user tersebut, dan localhost artinya RabbitMQ berjalan di komputer sendiri.
